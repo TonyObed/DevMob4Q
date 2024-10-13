@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Fquadrants</string>
+    <string name="T1">Text composable</string>
+    <string name="C1">Displays text and follows the recommended Material Design guidelines.</string>
+    <string name="T2">Image composable</string>
+    <string name="C2">Creates a composable that lays out and draws a given Painter class object.</string>
+    <string name="T3">Row composable</string>
+    <string name="T4">Column composable</string>
+    <string name="C3">A layout composable that places its children in a horizontal sequence</string>
+    <string name="C4">A layout composable that places its children in a vertical sequence.</string>
+</resources>
